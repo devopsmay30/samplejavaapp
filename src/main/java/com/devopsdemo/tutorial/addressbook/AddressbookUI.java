@@ -49,7 +49,7 @@ public class AddressbookUI extends UI {
     ContactService service = ContactService.createDemoService();
 
     /*
-     * The "Main method".
+     * The "Maina method".
      *
      * This is the entry point method executed to initialize and configure the
      * visible user interface. Executed on every browser reload because a new
